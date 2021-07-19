@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi My Name is Selorm Adonu 👋
+
+I am glad you are here. Feel free to check out some of my hand works and reach out if you have any queries.
 
 <!--
 **Selorm958/Selorm958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

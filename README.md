@@ -9,10 +9,14 @@ Superior skills in translating complex data and ideas into sound, easily underst
 
 #### Skills and Qualifications
 
--• Highly skilled in Statistical Programming Languages including R, Python and SAS; and Data Visualization software including Tableau, Power BI, IBM Cognos, and IBM SPSS.
--• Experienced utilizing @Risk and Solver Excel add-ins for Risk Management, Forecasting, and Model Optimization.
--• Proficient in developing reports, dashboards, and analyses used at the senior leadership level for strategic planning and competitive intelligence.
+• Highly skilled in Statistical Programming Languages including R, Python and SAS; and Data Visualization software including Tableau, Power BI, IBM Cognos, and IBM SPSS.
+
+• Experienced utilizing @Risk and Solver Excel add-ins for Risk Management, Forecasting, and Model Optimization.
+
+• Proficient in developing reports, dashboards, and analyses used at the senior leadership level for strategic planning and competitive intelligence.
+
 • Adept statistical, economic modelling, and flow-charting skills; highly skilled in applying mathematical theory to develop analyses to solve real-world problems.
+
 • Knowledgeable in C++ and HTML, CSS.
 • Strong financial, marketing, and project management background.
 • Proficient in Microsoft Office Suite - Excel, Outlook, PowerPoint, Word.

@@ -18,9 +18,13 @@ Superior skills in translating complex data and ideas into sound, easily underst
 • Adept statistical, economic modelling, and flow-charting skills; highly skilled in applying mathematical theory to develop analyses to solve real-world problems.
 
 • Knowledgeable in C++ and HTML, CSS.
+
 • Strong financial, marketing, and project management background.
+
 • Proficient in Microsoft Office Suite - Excel, Outlook, PowerPoint, Word.
+
 • Excellent critical thinking, logical reasoning, and problem-solving skills.
+
 • Outstanding team building, time management, and interpersonal skills.
 
 <!--

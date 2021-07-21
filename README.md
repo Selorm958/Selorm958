@@ -5,7 +5,7 @@ I am glad you are here. Feel free to check out some of my hand works and reach o
 ### About
 
 Motivated, results-driven professional with extensive experience in data management processes and statistical methods, as well as financial management and strategic marketing. Possessing a unique blend of analytical skills, technological acumen, and leadership capabilities. 
-Superior skills in translating complex data and ideas into sound, easily understood strategic recommendations. Currently completing a distinguished record of service with the United States Army as a Tactical Data Specialist and seeking a challenging new opportunity as a Data Analyst and Business Intelligence professional.
+Superior skills in translating complex data and ideas into sound, easily understood strategic recommendations. Currently completing a distinguished record of service with the United States Army as a Tactical Data Specialist and seeking a challenging new opportunity as a member of a Data Science team.
 
 #### Skills and Qualifications
 
